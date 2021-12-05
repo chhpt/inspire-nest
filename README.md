@@ -8,19 +8,27 @@
 
 ```bash
 pnpm install
+
+# 或
+npm install
 ```
 
-## 运行
+## 开发
 
 ```bash
-# development
-$ pnpm run dev
+pnpm run dev
+
+# 或
+npm run dev
 ```
 
 ## 部署
 
 ```bash
-$ pnpm run deploy
+pnpm run deploy
+
+# 或
+npm run deploy
 ```
 
 ## License
